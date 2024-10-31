@@ -2,7 +2,7 @@
 https://github.com/komori-flag/glados_automation
 # glados自动签到，实现无限白嫖。
 
-环境变量：`GLADOS_COOKIE`（必要） 和  `SERVERCHAN`（非必要）
+环境变量：`GLADOS_COOKIE`（必要） 和 `SERVERCHAN`（非必要）
 
  `GLADOS_COOKIE`多个账号需使用 '&' 隔开
   示例：cookie&cookie&cookie
