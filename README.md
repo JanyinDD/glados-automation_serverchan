@@ -1,6 +1,10 @@
+#由于pushplus开始强制实名所以此仓库更改了原仓库的推送方式
+
+
 # 原仓库👇
 https://github.com/komori-flag/glados_automation
 在此基础上删掉了青龙面板和自动同步上游代码
+
 
 # glados自动签到，实现无限白嫖。
 
