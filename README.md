@@ -17,7 +17,11 @@ https://github.com/komori-flag/glados_automation
  
  2.在自己仓库中打开此项目
  
- 3.配置环境变量
+ 3.配置环境变量：
+   打开 GLaDOS 签到页面
+   打开浏览器「开发者工具」(快捷键 F12 或 Ctrl+Shift+I), 切换到「网络 Network」标签页
+   找到名字为 status 这一行, 点击打开详情, 在「请求头 Request」找到 Cookie, 格式类似 koa:sess=xxxxxx; koa:sess.sig=xxxxxx, 复制出来
+
  
  4.点亮右上角的星星 **star** 激活 actions
  
