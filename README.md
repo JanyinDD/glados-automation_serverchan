@@ -1,4 +1,4 @@
-# 因为pushplus强制实名所以此仓库吧原仓库推送改成了Server酱
+# 因为pushplus开始强制实名所以此仓库把原仓库的pushplus推送改成Server酱推送
 
 
 # 原仓库👇
