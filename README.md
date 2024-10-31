@@ -1,4 +1,4 @@
-# 由于pushplus开始强制实名所以此仓库更改了原仓库的推送方式
+# 由于pushplus强制实名所以此仓库吧原仓库的推送改成了Server酱
 
 
 # 原仓库👇
@@ -8,7 +8,7 @@ https://github.com/komori-flag/glados_automation
 
 # glados自动签到，实现无限白嫖。
 
-环境变量：`GLADOS_COOKIE`（必要） 和 `PUSHPLUS_TOKEN`（非必要）
+环境变量：`GLADOS_COOKIE`（必要） 和 `SERVERCHAN`（非必要）
 
  `GLADOS_COOKIE`多个账号需使用 '&' 隔开
   示例：cookie&cookie&cookie
