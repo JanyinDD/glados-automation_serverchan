@@ -4,7 +4,7 @@ import requests,json,os
 # -------------------------------------------------------------------------------------------
 if __name__ == '__main__':
 # pushplus秘钥 申请地址 https://sctapi.ftqq.com/
-    sckey = os.environ.get("PUSHPLUS_TOKEN", "")
+    sckey = os.environ.get("SERVERCHAN", "")
 # 推送内容
     sendContent = ''
 # glados账号cookie 直接使用数组 如果使用环境变量需要字符串分割一下
